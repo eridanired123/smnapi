@@ -1,4 +1,4 @@
-# Documentación de API para el SMN de la CONAGUA (Pronóstico a 3 días)
+# API para el SMN de la CONAGUA (Pronóstico a 3 días)
 
 ## Descripción
 
